@@ -1,3 +1,4 @@
+using BookStore.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookStore.Data
@@ -8,5 +9,7 @@ namespace BookStore.Data
         {
             
         }
+
+        public DbSet<Category> Categories { get; set; }
     }
 }
