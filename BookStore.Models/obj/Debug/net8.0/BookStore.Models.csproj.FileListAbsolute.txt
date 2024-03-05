@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\bin\Debug\net8.0\BookStore.Models.deps.json
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\bin\Debug\net8.0\BookStore.Models.dll
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\bin\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.dll
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\refint\BookStore.Models.dll
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Administrator\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\net8.0\ref\BookStore.Models.dll

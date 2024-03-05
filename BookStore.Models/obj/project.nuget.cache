@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "93rjQdHDldFDmbebwqRG+CfIS8PwbXyvPkwvzKc9PNcmCy4ntP0ZiYqMnw8290mxZ5Eu7s83OEUkBwZ/j0rAbA==",
+  "dgSpecHash": "bWrt+Rwc/Lei4mZEVP7FVUPCnYG3+DLJ2kLt/cmD9gdmmuJVJhnSXpScvdRcakt8PvuUAN6nDT+0bEkLYf4K9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore.Models\\BookStore.Models.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore\\BookStore.Models\\BookStore.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

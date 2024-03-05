@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore.Models\\BookStore.Models.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore\\BookStore.Models\\BookStore.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore.Models\\BookStore.Models.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore\\BookStore.Models\\BookStore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore.Models\\BookStore.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore\\BookStore.Models\\BookStore.Models.csproj",
         "projectName": "BookStore.Models",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore.Models\\BookStore.Models.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore\\BookStore.Models\\BookStore.Models.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore.Models\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\BookStore\\BookStore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
