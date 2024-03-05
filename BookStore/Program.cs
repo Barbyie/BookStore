@@ -1,4 +1,4 @@
-using BookStore.Data;
+using BookStore.DataAccess.Data;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using System.Data.SqlClient;
