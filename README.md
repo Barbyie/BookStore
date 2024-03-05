@@ -1,6 +1,6 @@
 # Book Store
 
-Book Store Page, made using ASP.NET MVC, with integration to SQL Database.
+Book Store Page, made using ASP.NET MVC, with integration to a SQL Database.
 
 ![image](https://github.com/Barbyie/BookStore/assets/68784417/d622d958-e00a-4531-8b35-bce260d87f85)
 
